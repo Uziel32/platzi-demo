@@ -1,0 +1,20 @@
+{
+  "name": "platzi",
+  "version": "1.0.0",
+  "description": "Ejemplo DevOp",
+  "main": "server.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "manuel_gonzalez@superboletos.com",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "mocha": "^5.2.0",
+    "npm": "^6.4.1",
+    "save": "^2.3.2",
+    "supertest": "^3.3.0",
+    "to": "^0.2.9",
+    "update": "^0.7.4"
+  }
+}
